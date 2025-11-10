@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VNP Chat</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    
+    <div class="chat-container">
+        <!-- <div class="logo-container">
+            <img src="https://www.vnpsolutions.com/img/VNP-logo.svg" alt="Logo" class="logo">
+        </div> -->
+        <div class="chat-messages">
+        </div>
+        <!-- FAQ Quick Actions -->
+        <div class="faq-scroll-wrapper">
+            <div class="faq-scroll" role="group" aria-label="Quick FAQs">
+                <button class="faq-button" onclick="handleSendMessage('What Do You Need to Get Started?')">What Do You Need to Get Started?</button>
+                <button class="faq-button" onclick="handleSendMessage('What to Expect After Activation?')">What to Expect After Activation?</button>
+                <button class="faq-button" onclick="handleSendMessage('Invoicing, Payments, and Payouts')">Invoicing, Payments, and Payouts</button>
+                <button class="faq-button" onclick="handleSendMessage('What Influences a Property’s Return?')">What Influences a Property’s Return?</button>
+                <button class="faq-button" onclick="handleSendMessage('What OTAs do we cover?')">What OTAs do we cover?</button>
+                <button class="faq-button" onclick="handleSendMessage('What regions do we serve?')">What regions do we serve?</button>
+                <button class="faq-button" onclick="handleSendMessage('How do we maximize revenue recovery?')">How do we maximize revenue recovery?</button>
+            </div>
+        </div>
+        <div class="chat-input bg-gradient">
+            <input id="messageInput" type="text" placeholder="Type your message...">
+            <button id="sendButton">Send</button>
+        </div>
+    </div>
+    <div id="videoOverlay" class="video-overlay">
+        <video id="introVideo" class="video" src="./assets/vid2.mp4" autoplay muted playsinline controls></video>
+        <button id="skipButton" class="skip-button">Skip</button>
+    </div>
+    <script src="chat.js"></script>
+    <script src="../utilities/display.js"></script>
+    <script src="../utilities/tool_executor.js"></script>
+    <script src="../utilities/tool_handler.js"></script>
+    <script src="../utilities/tools.js"></script>
+    <script src="videoOverlay.js"></script>
+</body>
+
+</html>
