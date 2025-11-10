@@ -14,7 +14,7 @@ body, html {
     display: flex;
     flex-direction: column;
     height: 100vh;
-    background-color: #fff; 
+    background-color: #fdfdf0; 
     /* background: linear-gradient(0deg, rgb(0, 0, 0), rgba(0, 0, 0, 0.705)), url(./assets/thumbnails/movie_thumbnail.jpg); */
 }
 
