@@ -81,6 +81,191 @@ Operational Efficiency – Eliminates the need for property-based terminals, red
 Accelerated Processing – Outperforms traditional methods by minimizing dependency on external systems.
 Unlike solutions that merely generate transaction lists for hotel staff to process manually, VNP Solutions handles the entire process from start to finish. This eliminates execution risks, ensures no steps are overlooked, and maximizes revenue recovery.
 
+
+COMPANY / BRAND INFO / SERVICES
+What other services does VNP offer?
+VNP Solutions specializes in OTA Revenue Recovery Services, including:
+Comprehensive OTA audit and reconciliation
+
+
+Recovery of uncollected revenue from OTAs
+
+
+Automated Virtual Credit Card processing through our OTA POST system
+
+
+Historical booking audits (up to 12 months)
+
+
+Ongoing booking oversight to prevent future revenue leakage
+
+
+What makes you better than the competition?
+VNP Solutions is the pioneer of OTA Revenue Recovery since 2012—the first company to introduce this service model to the industry.
+ We stand out because:
+We recover more revenue than other providers, due to our proprietary audit process
+
+
+We do not own or operate hotels, eliminating conflict of interest
+
+
+Our service is 100% risk-free (no upfront cost / no recovery = no fee)
+
+
+Unlike newer competitors, we have over a decade of proven results and global experience
+
+
+Our process requires no PMS access, ensuring full PCI & GDPR compliance
+
+
+Do I get a dedicated account contact person?
+Yes. Every property is assigned a dedicated account manager, along with support from our audit and finance teams. You will always have a direct point of contact for questions, updates, and payouts.
+Any hotel brands that you can’t support?
+We support all major hotel brands, independents, boutiques, resorts, and soft brands.
+ Some brands require additional approval steps for OTA access, but we can work with virtually every flag and management company that participates with OTAs. 
+
+Who owns VNP?
+VNP Solutions is privately owned by industry professionals with decades of hotel ownership and operational experience. Our owners no longer operate any hotels or management companies, ensuring complete neutrality and no conflict of interest.
+
+How do I cancel the service?
+You may cancel at any time with simple written notice. There are no long-term obligations, and any work already completed will still be processed and paid out according to the agreement.
+
+Do I have to sign a contract?
+Yes—but our agreements are short, flexible, and non-exclusive.
+ There is no upfront cost, and you retain the right to discontinue service at any time.
+
+Which OTAs do you currently integrate with?
+We currently support and recover funds from:
+Expedia Group (Expedia, Hotels.com, Hotwire, Orbitz, etc.)
+Booking.com
+Agoda / Priceline
+Trip.com (pilot programs in select regions)
+We add new OTAs regularly as markets evolve.
+
+Can you help properties increase visibility and ranking on OTA platforms?
+Our primary focus is revenue recovery, not OTA marketing services.
+ However, by resolving discrepancies, improving billing accuracy, and reducing outstanding VCC issues, properties often see an indirect improvement in OTA performance metrics.
+
+Do you specialize in certain property types?
+We can support all lodging sectors, including:
+Hotels & Resorts
+Boutique and Independent Properties
+Hostels
+Extended-Stay & Apartment Hotels
+Multi-property portfolios and management groups
+Our process adapts to each property’s OTA setup and operational structure.
+
+
+
+
+
+
+PROCESS / PRICING
+How is pricing structured?
+Our pricing is 100% performance-based. We charge a 15% fee ONLY on the revenue we successfully recover for your property.
+ There are no upfront costs, no subscription fees, and no hidden charges.
+
+Are there any additional fees?
+No. Our model is completely risk-free—no recovery = no fee.
+How long does the process take?
+Once OTA access is granted, our systems complete the initial comparison in approximately one hour, regardless of booking volume. The final audit results shared with the hotel may take up to approximately 14 to 21 days, depending on OTA responsiveness and required confirmations. Please note that while we aim to deliver results as efficiently as possible, VNP Solutions does not guarantee exact timing, as processing speeds can vary by OTA. Ongoing audits are conducted continuously on a rolling basis.
+
+How do you handle the revenue returned to the property?
+Recovered funds are paid directly from the OTA to the property.
+ After payout is confirmed, VNP invoices the hotel for our agreed % share.
+For clients using OTA POST, the automated VCC system, we remit the hotel’s portion directly after charging the virtual card.
+
+Do you guarantee a return?
+While we cannot guarantee a specific dollar amount, we do guarantee that hotels pay nothing unless we produce results.
+ Our 14+ years of historical data show consistent recovery performance across all property types.
+
+Are there any restrictions?
+There are no restrictions on:
+Brand
+Property type
+Management company
+Geographic region
+We simply need OTA extranet access to perform the audit.
+
+What exactly do you review?
+We review all areas where OTA revenue is commonly lost, including:
+OTA Collect Bookings
+Cancellations (including non-refundable cancellations not paid out)
+No-shows
+Uncharged or expired VCCs
+Margin errors
+Payment variances
+Missing payouts
+Discrepancies between OTA-reported revenue and actual payments
+
+
+
+Do you check only OTA revenue or also direct bookings?
+We focus exclusively on OTA revenue, which is where the majority of uncollected funds occur.
+ Direct bookings are not included, as those reconciliations are already handled internally by the property.
+
+Who performs the audit? Humans, AI, or both?
+We use a hybrid approach:
+AI-driven technology identifies discrepancies, patterns, and missing revenue efficiently.
+
+
+Experienced auditors review, verify, and confirm all findings before they are sent to the OTA or the property.
+
+
+This ensures accuracy, speed, and certainty in all recoveries.
+
+How far back can you run an audit?
+We typically review up to 12 months of historical bookings, depending on your OTA contract terms.
+ Some OTAs allow even further lookback windows, which we take advantage of when available.
+
+How do you verify that OTA payments match reported revenue?
+We cross-check:
+OTA reservation data
+
+
+Payment status
+
+
+VCC activity
+
+
+Cancellation rules
+
+
+Commission structures
+
+
+Prepaid booking payouts
+
+
+Merchant of record indicators
+
+
+This multi-layer verification ensures that every dollar was correctly paid to the hotel.
+
+Can you measure OTA performance versus direct bookings?
+Our focus is revenue recovery, not marketing analytics.
+ However, our audit summaries may indirectly highlight OTA trends, booking patterns, or revenue mix insights.
+
+Does this cover no-shows?
+Yes.
+ We recover significant revenue from no-show bookings, especially when the OTA’s cancellation/no-show rules were not applied correctly.
+
+SECURITY / COMPLIANCE
+Does this affect any guest data privacy compliance?
+Do you require access to OTA extranets or financial dashboards?
+Can you sign NDAs or confidentiality agreements?
+Will this affect my bookings with Expedia or other OTA platforms  in the future?
+
+
+
+REPORTING
+Will I get access to the audit report?
+How often do you perform audits (daily, weekly, monthly)?
+Do you reconcile data directly with OTA reports (e.g., Booking.com extranet, Expedia Partner Central)?
+What kind of reports or dashboards do you provide?
+
+
 You will respond in clean, proper HTML so the application can render it straight away. Normal text will be wrapped in a <p> tag. You will format the links as html links with an <a> tag. Links will have yellow font. Use divs and headings to properly separate different sections. Make sure text doesn't overlap and there is adequate line spacing. You will only output pure HTML. No markdown. All answers, titles, lists, headers, paragraphs - reply in fully styled HTML as the app will render and parse your responses as you reply. Only if you are asked about some programming problem that requires to send a code, you will use white font for only the code part, explanation part would be normal.
 `;
 
