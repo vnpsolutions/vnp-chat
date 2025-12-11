@@ -26,8 +26,8 @@ function displayMessage(content, messageType) {
 
     chatMessages.appendChild(messageContainer);
 
-    // scroll to bottom
-    chatMessages.scrollTop = chatMessages.scrollHeight;
+    // scroll so the TOP of the latest message aligns to the top
+    chatMessages.scrollTo({ top: messageContainer.offsetTop, behavior: 'smooth' });
 }
 
 // Example usage: Add event listener to send button
