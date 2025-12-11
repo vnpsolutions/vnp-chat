@@ -5,6 +5,7 @@ body, html {
     height: 100%;
     box-sizing: border-box;
     touch-action: manipulation; /* helps on modern browsers */
+    -webkit-text-size-adjust: 100%;
 }
 
 *, *::before, *::after {
@@ -458,8 +459,8 @@ body, html {
     transform: translateY(1px);
   }
 
-.chat-input input,
+input,
 select,
 textarea {
-  font-size: 16px; /* prevents iOS input zoom */
+    font-size: 16px !important; /* prevents iOS input zoom */
 }
